@@ -1,0 +1,14 @@
+6882_project_info.pdf
+
+paper/
+references/
+data/cache/
+*pdf
+
+# garbage
+.DS_Store
+.ipynb_checkpoints/
+*.egg-info/
+*.pyc
+*scratch*
+.pytest_cache/
